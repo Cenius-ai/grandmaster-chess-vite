@@ -41,7 +41,7 @@ See [`INSTALL.md`](INSTALL.md) for full setup and usage instructions.
 
 ## Architecture
 
-`./install.sh` gets you from a fresh clone to a running instance with sample data in a single step. The Vite codebase (35 files) is self-contained — no external services needed to evaluate it. Top-level layout: `public/`, `src/`. See [`INSTALL.md`](INSTALL.md) for complete setup instructions.
+`./install.sh` gets you from a fresh clone to a running instance with sample data in a single step. The Vite codebase (24 files) is self-contained — no external services needed to evaluate it. Top-level layout: `public/`, `src/`. See [`INSTALL.md`](INSTALL.md) for complete setup instructions.
 
 ## Usage guide
 
